@@ -1,0 +1,10 @@
+sample	horse	type	lymphocytes	macrophages	neutrophils	mastocytes	eosinophils	Total
+1	ss1	cytopre	55.8	25.8	5.8	12.8	0	100.2
+2	ss1	cytopost	60.8	22.8	4	12.3	0	99.9
+3	ss1	sc	88.6	5.3	2.3	3.8	0	100
+4	ss2	cytopre	40.5	44	14.5	1	0	100
+5	ss2	cytopost	39.5	48	12	0.5	0	100
+6	ss2	sc	80.7	12.9	5.2	1.2	0	100
+7	ss3	cytopre	39.5	46	14	0.5	0	100
+8	ss3	cytopost	39.5	48.5	10	2	0	100
+9	ss3	sc	75.8	17.43	5.7	1	0	99.93
